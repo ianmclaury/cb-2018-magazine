@@ -1,0 +1,27 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-style: bold;
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color:rgb(71,116,188);
+  background-image: url("");
+}
+
+h1 {
+  font-style: italic;
+  color: white;
+  text-align:center;
+  border: double 10px;
+  font-family: 'Monoton', cursive;
+}
+
+a.baking-button {
+  background-color: green;
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+}
+
+
+  
