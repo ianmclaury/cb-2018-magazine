@@ -17,11 +17,39 @@ h1 {
 }
 
 a.baking-button {
-  background-color: green;
+  background-color: pink;
+  color: black;
+  padding: 5px;
+  text-decoration: none;
+}
+p.health{
+  text-align:center;
+}
+.health{
+ justify-content:space-between;
+  
+}
+#mama{
+  background-color: red;
   padding: 5px;
   color: white;
   text-decoration: none;
 }
-
-
-  
+#health{
+background-color: blue;
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+}
+#sports{
+  background-color: orange;
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+}
+ #music{
+  background-color: rgb(15, 219, 185);
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+} 
