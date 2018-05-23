@@ -1,0 +1,37 @@
+
+       #Sound{
+          text-align:center;
+          color: rgb(244, 66, 69)
+      }
+      body {
+        font-family: 'Mr De Haviland', cursive;
+        background-color:   #a3c2c2;
+      }
+      h1{
+        font-size:400%;
+        font-family: 'Kaushan Script', cursive;
+      }
+      h2{
+        text-align: center; 
+      }
+      #KanyeG{
+        height:300px;
+        width:300px;
+       }
+      #tia{
+        height:400px;
+        width:400px;
+      }
+      #Gambino{
+        height:400px;
+        width:400px;
+      }
+      #Drake{
+        height:500px;
+        width:500px;
+      }
+      p1{
+        font-family: 'Raleway', sans-serif;
+      }
+      
+    

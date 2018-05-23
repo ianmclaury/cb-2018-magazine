@@ -6,6 +6,7 @@ body {
   margin: 2em;
   background-color:rgb(71,116,188);
   background-image: url("");
+  color: white;
 }
 
 h1 {
@@ -27,7 +28,13 @@ p.health{
 }
 .health{
  justify-content:space-between;
-  
+}
+h2{
+  text-align:center;
+  font-style: italic;
+  color: white;
+  border: double 10px;
+  font-family: 'Monoton', cursive;
 }
 #mama{
   background-color: red;
@@ -52,4 +59,20 @@ background-color: blue;
   padding: 5px;
   color: white;
   text-decoration: none;
-} 
+}
+#Sound{
+  text-align:center;
+  color: rgb(244, 66, 69)
+}
+#animals{
+  background-color: rgb(127, 53, 224);
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+}
+#security{
+  background-color: black;
+  padding: 5px;
+  color: skyblue;
+  text-decoration: none;
+}
